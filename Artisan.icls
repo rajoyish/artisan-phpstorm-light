@@ -5,11 +5,11 @@
     <property name="originalScheme">Artisan</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="7fc784" />
-    <option name="ANNOTATIONS_COLOR" value="5a5d6b" />
-    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0" />
+    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="" />
+    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="DELETED_LINES_COLOR" value="767a8a" />
+    <option name="DELETED_LINES_COLOR" value="" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="ERROR_HINT" value="ffe8e8" />
@@ -32,9 +32,9 @@
     <option name="FILESTATUS_modifiedOutside" value="33b3" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="" />
     <option name="INDENT_GUIDE" value="" />
     <option name="INFORMATION_HINT" value="ffffff" />
     <option name="LINE_NUMBERS_COLOR" value="aeb3c2" />
@@ -42,7 +42,7 @@
     <option name="LOOKUP_COLOR" value="ffffff" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3" />
     <option name="METHOD_SEPARATORS_COLOR" value="dfe1e5" />
-    <option name="MODIFIED_LINES_COLOR" value="88adf7" />
+    <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="fff8e3" />
     <option name="PROMOTION_PANE" value="e7effd" />
     <option name="QUESTION_HINT" value="f5f8fe" />
@@ -52,13 +52,13 @@
     <option name="SELECTION_BACKGROUND" value="a6d2ff" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="d4d4d4" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="edf2fa" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="f7f8fa" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="dae6fd" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f7e2cb" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
@@ -444,6 +444,12 @@
     <option name="MATCHED_TAG_NAME">
       <value>
         <option name="BACKGROUND" value="c9ecec" />
+      </value>
+    </option>
+    <option name="PHP_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="8e7b0c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CLASS">
